@@ -1,3 +1,3 @@
 alert("Olá, Mundo!")
 
-var texto = getElementById("texto").innerHTML("Oi")
+document.getElementById("texto").innerHTML= "Primeira frase em <strong>JS</strong>!"
